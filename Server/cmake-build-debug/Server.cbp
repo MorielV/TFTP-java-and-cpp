@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Server"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Server">
+				<Option output="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Server.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/i686-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/i686-pc-cygwin/6.4.0/../../../../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Server/fast">
+				<Option output="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Server.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/i686-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/i686-pc-cygwin/6.4.0/../../../../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/.classpath">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/.project">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/.settings/org.eclipse.core.resources.prefs">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/.settings/org.eclipse.jdt.core.prefs">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/.settings/org.eclipse.m2e.core.prefs">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/Files/AlbumArtSmall.jpg">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/Files/Folder.jpg">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/pom.xml">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/MessageEncoderDecoder.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/MessagingProtocol.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/BidiEncDecImpl.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/BidiImpl.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/BidiMessagingProtocol.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/Connections.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/ConnectionsImpl.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/ACK.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/BCAST.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/DATA.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/DELRQ.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/DIRQ.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/DISC.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/ERROR.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/LOGRQ.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/Packet.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/RRQ.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/api/bidi/packets/WRQ.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/impl/TFTPreactor/ReactorMain.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/impl/TFTPtpc/TPCMain.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/srv/ActorThreadPool.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/srv/BaseServer.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/srv/BlockingConnectionHandler.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/srv/ConnectionHandler.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/srv/NonBlockingConnectionHandler.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/srv/Reactor.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/srv/Server.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/java/bgu/spl171/net/srv/bidi/ConnectionHandler.java">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/src/main/main.iml">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/MessageEncoderDecoder.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/MessagingProtocol.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/BidiEncDecImpl.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/BidiImpl.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/BidiMessagingProtocol.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/Connections.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/ConnectionsImpl.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/ACK.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/BCAST.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/DATA.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/DELRQ.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/DIRQ.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/DISC.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/ERROR.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/LOGRQ.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/Packet.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/RRQ.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/api/bidi/packets/WRQ.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/impl/TFTPreactor/ReactorMain.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/impl/TFTPtpc/TPCMain.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/srv/ActorThreadPool.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/srv/BaseServer.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/srv/BlockingConnectionHandler.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/srv/ConnectionHandler.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/srv/NonBlockingConnectionHandler.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/srv/Reactor.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/srv/Server$1.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/srv/Server.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/target/classes/bgu/spl171/net/srv/bidi/ConnectionHandler.class">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/מוריאל/Desktop/Ass3/Server/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
